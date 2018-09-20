@@ -28,4 +28,4 @@
 
 *****!@!#!@#!@#
 
-![](C:\Users\횡재철\github\copy.jpg)
+![](./pic/image.jpg)
