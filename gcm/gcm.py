@@ -51,6 +51,7 @@ def main():
 
     gcm0(a, b)
     gcm1(a, b)
+    # 사실상 gcd 
     gcm2(a, b)
 
 if __name__ == "__main__":
